@@ -8,6 +8,11 @@ __A highly customisable, open source server software for Minecraft: Pocket Editi
 Head over to the [documentation site](http://pmmp.readthedocs.org/).
 If you don't find what you're looking for there, [talk to a human](#discussion). Please do not use our issue tracker for support requests.
 
+
+PMMP is one of several derived projects resulting from the inactivity of PocketMine/PocketMine-MP. It has many gameplay features implemented which PocketMine-MP does not since Minecraft PE v1.1.x However, this project has been abandoned by most of its active developers, and the project quality has been lowered by too many people touching code without understanding side effects.
+
+PMMP is now no longer under active development due to its remaining developers do not wish to continue working with its mess, and it is now for the most part maintenance-only. If you wish to continue using PMMP, you may continue to do so, but its maintenance now primarily consists of cherry-picking from its re-activated parent project, GenisysPro/GenisysPro, and its stability leaves a lot to be desired. We recommend you move to GenisysPro/GenisysPro as soon as you feel comfortable doing so. This project will cease to be maintained once PocketMine-MP overtakes it.
+
 ### Discussion
 - [Forums](https://forums.pmmp.io/)
 - [#pmmp + #pocketmine channel IRC](http://webchat.freenode.net/?channels=pmmp,pocketmine)
